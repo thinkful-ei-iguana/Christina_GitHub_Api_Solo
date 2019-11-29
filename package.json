@@ -1,0 +1,20 @@
+{
+  "name": "Christina_GitHub_Api_Solo",
+  "version": "1.0.0",
+  "description": "API GET app allowing users to retrieve data on repos using user handle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-iguana/Christina_GitHub_Api_Solo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-iguana/Christina_GitHub_Api_Solo/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-iguana/Christina_GitHub_Api_Solo#readme"
+}
